@@ -3,3 +3,6 @@ build/
 
 web-ext-artifacts
 .amo-upload-uuid
+
+CLAUDE.md
+.rtk/
